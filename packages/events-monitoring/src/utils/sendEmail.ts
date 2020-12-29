@@ -3,7 +3,8 @@ import * as Mustache from "mustache";
 
 const ses = new AWS.SES();
 
-const URL = "https://ijj5xljd05.execute-api.eu-central-1.amazonaws.com";
+// TODO REPLACE URL
+const URL = "https://<$ENTER_URL>.amazonaws.com";
 
 export enum Templates {
   REGISTER = "REGISTER",
@@ -51,7 +52,7 @@ export const sendEmail = (type: Templates, data: any) => {
           Data: Mustache.render(subectText[type], { ...data, URL }),
         },
       },
-      Source: "noreply@refractive.xyz",
+      Source: "noreply@manifoldfinance.com",
     };
     // Test ENV
     if (process.env.IS_OFFLINE)
