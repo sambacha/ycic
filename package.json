@@ -1,0 +1,14 @@
+{
+  "name": "ycic-ops",
+  "version": "0.0.1",
+  "description": "ycommand and control centre",
+  "main": "index.js",
+  "scripts": {
+    "make": "lerna bootstrap && lerna exec yarn run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
