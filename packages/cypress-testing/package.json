@@ -25,7 +25,7 @@
   "repository": "github:damarnez/cypress-ethereum-provider",
   "dependencies": {
     "oboe": "2.1.5",
-    "uuid": "8.3.0",
+    "uuid": "8.3.2",
     "ws": "7.3.1",
     "xhr2-cookies": "1.1.0"
   },
