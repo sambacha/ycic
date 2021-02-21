@@ -24,7 +24,7 @@
     "tailwindcss": "1.9.6"
   },
   "dependencies": {
-    "axios": "0.20.0",
+    "axios": "0.21.1",
     "js-sha3": "0.8.0",
     "sirv-cli": "1.0.10",
     "validator": "13.5.2"
