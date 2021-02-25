@@ -12,8 +12,8 @@
     "sendemailbytopic": "env-cmd --no-override .env serverless invoke local --function sendemailbytopic --path ./src/SendEmailByTopic/mock.json"
   },
   "dependencies": {
+    "ioredis": "4.22.0",
     "axios": "0.21.1",
-    "ioredis": "4.19.4",
     "mustache": "4.1.0",
     "uuid": "8.3.2",
     "validator": "13.5.2",
