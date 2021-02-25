@@ -20,7 +20,7 @@
     "web3-utils": "1.3.4"
   },
   "devDependencies": {
-    "@types/aws-lambda": "8.10.68",
+    "@types/aws-lambda": "8.10.72",
     "env-cmd": "8.0.2",
     "serverless": "2.27.0",
     "serverless-offline": "6.8.0",
