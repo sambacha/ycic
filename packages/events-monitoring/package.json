@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@types/aws-lambda": "8.10.73",
-    "env-cmd": "8.0.2",
+    "env-cmd": "10.1.0",
     "serverless": "2.27.0",
     "serverless-offline": "6.8.0",
     "serverless-offline-scheduler": "0.4.2",
