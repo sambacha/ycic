@@ -23,7 +23,7 @@
     "@types/aws-lambda": "8.10.73",
     "env-cmd": "8.0.2",
     "serverless": "2.27.0",
-    "serverless-offline": "6.8.0",
+    "serverless-offline": "6.9.0",
     "serverless-offline-scheduler": "0.4.2",
     "serverless-plugin-typescript": "1.1.9",
     "typescript": "3.9.7"
