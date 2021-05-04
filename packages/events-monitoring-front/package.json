@@ -10,7 +10,7 @@
     "dev": "concurrently \"rollup -c -w\" \"yarn run watch:tailwind\""
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "14.0.0",
+    "@rollup/plugin-commonjs": "18.1.0",
     "@rollup/plugin-node-resolve": "8.4.0",
     "autoprefixer": "9.8.6",
     "concurrently": "6.0.0",
