@@ -26,6 +26,6 @@
     "serverless-offline": "6.8.0",
     "serverless-offline-scheduler": "0.4.2",
     "serverless-plugin-typescript": "1.1.9",
-    "typescript": "3.9.7"
+    "typescript": "4.3.2"
   }
 }
